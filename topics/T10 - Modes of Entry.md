@@ -46,16 +46,21 @@ A firm serving a foreign market can choose among **6 canonical modes of entry**,
 - **Impact:** created Mexico's northern-border industrial belt; made Mexico a cheap supplier, overwhelmingly to the US.
 - **Today:** largely superseded by **NAFTA (1994) / USMCA-T-MEC (2020)**, which opened trade broadly, but the Maquiladora legal framework still exists.
 
-### 2.6 Franchising
+### 2.5 Franchising
 - **Mechanism:** a specialized form of licensing — licensor grants the use of its **brand and business system** plus **stringent operating rules** (recipes, décor, service standards, training, supply chain) and ongoing support.
 - **Works best for:** simple, replicable, codifiable products and services — **fast food** (McDonald's, Subway, Papa John's), hotel chains, rental cars.
 - **Pros:** rapid global expansion without huge capital outlay by the franchisor; local owners carry operational risk.
 - **Cons:** brand damage if a franchisee underperforms; franchisor/franchisee tension (e.g., teacher's *7 Brew* Iowa anecdote — the franchisor pressures expansion or claws back the territory).
 
-### 2.7 Strategic Alliance / Joint Venture
+### 2.6 Strategic Alliance / Joint Venture
 - **Mechanism:** a **formal partnership** between firms — shared ownership (a JV is a separately incorporated entity) or a contractual alliance — typically pairing a foreign firm's technology/capital with a **local firm's market knowledge**.
 - **Pros:** access to local knowledge, distribution, and regulatory goodwill; shared capital and risk; sometimes **required by host-country law** in restricted sectors.
 - **Cons:** **shared control** (conflict over strategy), risk of **know-how leaking to the partner**, and historically high failure rates — partners often end up as competitors. (Fuller treatment of JV success/failure → [T14](T14%20-%20Joint%20Ventures.md).)
+
+### Note — Portfolio Investment (NOT a mode of entry in this course)
+- **Mechanism:** passive cross-border purchase of foreign **securities** (shares, bonds) without managerial control; typically by individuals or funds.
+- **Nature:** a financial, not an operational, commitment; sits on the **capital account of the BoP** alongside FDI but conveys no operational presence.
+- **Why it's excluded:** the teacher classifies portfolio investment as a personal/financial activity and does **not** count it among the modes of foreign market entry. Mention it on the exam only as a contrast with FDI (≥10% stake + control).
 
 ---
 
@@ -64,7 +69,6 @@ A firm serving a foreign market can choose among **6 canonical modes of entry**,
 | Mode | Commitment | Control | Risk exposure | Typical use case |
 |------|-----------|---------|---------------|------------------|
 | Export / Import | Low | Low | Low | Testing a market; high value-to-weight goods |
-| Portfolio Investment | None operational | None | Financial only | Diversification (not a way to "enter" operationally) |
 | Manufacturing under License | Low | Low | Low | Simple, codifiable IP; market blocked by tariffs |
 | Franchising | Low–medium | Medium (via the rulebook) | Low–medium | Services with a strong brand (fast food, hotels) |
 | Turnkey Project | Medium (project-long) | None post-handover | Medium | Heavy engineering in closed markets |
@@ -79,9 +83,9 @@ A firm serving a foreign market can choose among **6 canonical modes of entry**,
 
 | Term | Definition |
 |------|------------|
-| Modes of foreign market entry | Alternative methods by which a firm can serve a foreign market: Export/Import, Portfolio Investment, Manufacturing under License, Franchising, Turnkey, JV/Alliance, FDI. |
+| Modes of foreign market entry | Alternative methods by which a firm can serve a foreign market: Export/Import, Manufacturing under License, Franchising, Turnkey, JV/Alliance, FDI. |
 | Export / Import | Cross-border sale or purchase of finished goods and services with no foreign production. |
-| Portfolio Investment | Passive cross-border investment in foreign securities without managerial control. |
+| Portfolio Investment | Passive cross-border investment in foreign securities without managerial control. **Not counted as a mode of entry in this course** — mention only as a financial contrast with FDI. |
 | FDI (Foreign Direct Investment) | Equity investment giving the investor **control** over a foreign operation (typically ≥10% of capital); takes the form of **greenfield** or **acquisition**. |
 | Greenfield investment | Building a new foreign facility from scratch. |
 | Acquisition / brownfield | Entering via purchase of an existing foreign firm. |
@@ -99,7 +103,7 @@ A firm serving a foreign market can choose among **6 canonical modes of entry**,
 ## 5. Exam questions flagged
 
 ### Explicit
-- **[EXAM]** List the **7 modes of foreign market entry** and briefly describe each. *(Teacher flagged multiple times across L20 and L21; course summary uses the 7-mode list above.)*
+- **[EXAM]** List the **6 modes of foreign market entry** and briefly describe each. *(Teacher flagged multiple times across L20 and L21. Count is 6 — the teacher does not include portfolio investment.)*
 - **[EXAM]** **Pros and cons of each mode of entry** — announced in L21 as a 2nd-partial-exam question. Use §2 + the table in §3 as the spine of the answer.
 - **[EXAM]** **What is the Maquiladora program and how does it work?** — explicit in L20. Hit: year (1965), closed-economy context, duty-free inputs, re-export within 1 year, US tariff only on Mexican value added, female border-labor impact.
 
@@ -123,7 +127,8 @@ A firm serving a foreign market can choose among **6 canonical modes of entry**,
 
 ## 7. Watch out
 
-- **7 vs. 6 vs. 8.** The course-summary list used above is **7**. The teacher sometimes says **6** (collapsing Export/Import to one item and **excluding Portfolio Investment** as a purely personal/financial mode) and the Lecture 21 notes at one point draft **8** (splitting Maquiladora out from Manufacturing under License). Treat **Maquiladora as a subspecies of licensing-based manufacturing**, not a separate mode. If the exam wording says "six," drop Portfolio Investment; if it says "seven," keep it.
+- **The count is 6.** Write six modes on the exam (Export/Import, Manufacturing under License, Franchising, Turnkey, JV/Alliance, FDI). The teacher explicitly excludes **portfolio investment** as a personal/financial activity, not a mode of entry. Do not list it as a seventh mode; only mention it as a contrast with FDI if it helps the answer.
+- **Do not split Maquiladora out as a separate mode.** Treat it as a *subspecies* of manufacturing under license (its Mexican special-case variant). Some notes drafted an "8-mode" list by separating Maquiladora — that is not the teacher's framing.
 - **Portfolio ≠ FDI.** Both sit on the BoP capital account, but **FDI involves control (≥10%)** and operational commitment; portfolio investment is passive and financial. Don't conflate them.
 - **Franchising is a *type* of licensing**, not a separate category in some textbooks — but the course treats it as its own mode because of the rulebook + brand + support bundle.
 - **Turnkey transfers know-how permanently.** Unlike FDI, when the project ends there's **no long-term presence** — and the client may become a competitor. This is the key con on the exam.

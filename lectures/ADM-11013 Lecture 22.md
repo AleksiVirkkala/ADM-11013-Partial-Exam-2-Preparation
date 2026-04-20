@@ -4,7 +4,7 @@
 **Textbook pages referenced:** 195, 197, 198, 201, 202, 231, 237, 442, 474, 626
 
 ## 1. Overview
-This session was primarily a pre-exam review. The instructor previewed the post-spring-break topics (legal systems in international business law — Roman vs. Anglo-Saxon; consolidation of multinational financial statements and foreign-exchange gain/loss; and a two-day screening of *The Big Short*), then handed out a written take-home exercise covering Incoterm groups, joint-venture successes/failures, and opinions on tariffs. Because the original session notes file was empty, the Control Questions document provides the polished textbook-referenced answers mapping to the exam-style questions this lecture foreshadowed.
+This session was primarily a pre-exam review. The instructor handed out a written take-home exercise covering Incoterm groups, joint-venture successes/failures, and opinions on tariffs. Because the original session notes file was empty, the Control Questions document provides the polished textbook-referenced answers mapping to the exam-style questions this lecture foreshadowed.
 
 ## 2. Exam priorities
 
@@ -18,8 +18,6 @@ This session was primarily a pre-exam review. The instructor previewed the post-
 - [EXAM] **Tariffs** — justifications, costs, and opinion. *Book: pp. 195, 197, 198, 201, 202 (Chapter 7)*
 
 ### Likely / hinted
-- [LIKELY] Consolidation of multinational financial statements and foreign-exchange gain/loss (instructor: *"It'll be after spring break... you will be expected to understand how they determine their foreign exchange gain or loss. It's not so easy"*).
-- [LIKELY] Differences between Roman-law and Anglo-Saxon legal systems in business law.
 - [LIKELY] Protectionism case study — Argentina's history of protected markets; pace of trade liberalization.
 
 ### "Remember" callouts
@@ -31,12 +29,7 @@ This session was primarily a pre-exam review. The instructor previewed the post-
 
 ## 3. Core concepts
 
-### 3.1 Post-break roadmap (previewed only)
-- **Legal systems**: Roman-law vs. Anglo-Saxon countries in international business law.
-- **Consolidation of financial statements** in a multinational context: conversion to the reporting currency (e.g., PepsiCo consolidating Russia, Europe, Argentina, Latin America, Australia, Africa into USD for NYSE reporting). Determining foreign-exchange gain or loss is *not* simply applying today's exchange rate to everything.
-- **Film:** *The Big Short* — two class sessions, paused for explanation. Relevance: international business and international markets, global consequences of the 2007–2008 financial crisis.
-
-### 3.2 Incoterms — the four groups
+### 3.1 Incoterms — the four groups
 Incoterms define where along the transport chain the seller's responsibility ends and the buyer's begins. Coverage concerns four things: **freight, insurance, duties/tariffs/taxes**.
 
 - **E group (e.g., EXW — Ex Works)** — Seller's responsibility ends at their own premises (factory). Buyer picks up at the seller's location and assumes freight, insurance, taxes, duties, and everything else.
@@ -44,7 +37,7 @@ Incoterms define where along the transport chain the seller's responsibility end
 - **C group (e.g., CFR, CIF, CPT, CIP)** — Seller is responsible up to the port of arrival (example: Rotterdam, Netherlands for interior-Europe shipments). The buyer then takes the goods from the port of arrival to the final destination.
 - **D group (e.g., DAP, DPU, DDP)** — Seller is responsible all the way to the final point of delivery in the buyer's interior (example: Freiburg im Breisgau, Germany). DDP extends this to include customs clearance.
 
-### 3.3 Joint ventures — in-class discussion
+### 3.2 Joint ventures — in-class discussion
 Students volunteered examples; the instructor validated cultural-clash as the dominant failure mechanism.
 
 **Failures mentioned in class:**
@@ -59,7 +52,7 @@ Students volunteered examples; the instructor validated cultural-clash as the do
 
 *Instructor aside:* Schadenfreude — "The American has the money and the Hungarian has the experience... and it almost always ends with the Hungarian having the money and the American having the experience." Told as a Hungarian self-deprecating joke about badly executed joint ventures.
 
-### 3.4 Tariffs — in-class discussion
+### 3.3 Tariffs — in-class discussion
 - Tariffs are typically a **percentage of the invoice** (built-up inputs).
 - Instructor's stance: avoid extremism. Neither 100 % free market (libertarian) nor 100 % protected market works. Argentina's long history of protectionism was "rather disastrous"; other countries opened too fast and also failed.
 - The right policy depends on the relative strength of domestic industries and the state's efficiency at collecting tariffs.
@@ -80,7 +73,6 @@ Students volunteered examples; the instructor validated cultural-clash as the do
 | Internalization theory | FDI explanation based on market imperfections — firms internalize to protect know-how and control operations. *Book: p. 231* |
 | Strategic Behavior theory (Knickerbocker) | Oligopolistic firms match rivals' FDI moves; imitative investment in concentrated industries. *Book: p. 231* |
 | Eclectic Paradigm (Dunning / OLI) | FDI occurs when **O**wnership, **L**ocation, and **I**nternalization advantages coincide. *Book: p. 231* |
-| Consolidation of financial statements | Converting subsidiaries' financial statements into the parent's reporting currency; generates foreign-exchange gain/loss. |
 | Schadenfreude | Delight in others' failure — invoked by the instructor to introduce the joint-venture-failure discussion. |
 
 ## 5. Practice / exam-style answers (from Control Questions)
@@ -130,10 +122,6 @@ Tariffs can be justified in international trade because they protect domestic in
 - **Lecture 19–21 linkage — FDI & entry modes:** This lecture consolidates the FDI theory block (Internalization, Knickerbocker, Eclectic/OLI) and the licensing-vs-FDI trade-off from earlier chapters (Book p. 231, 237), and the joint-venture entry mode from p. 442.
 - **Lecture 19–20 linkage — trade policy:** The tariff discussion draws directly on Chapter 7 (pp. 195–202), which covered the instruments of trade policy (tariffs, quotas, export bans, protecting jobs and industries, retaliation).
 - **Lecture 21 linkage — global financial system / trade finance:** The letter-of-credit question (p. 474) links to the international monetary system and trade finance topics covered previously.
-- **Clues pointing to Lectures 23–24:**
-  - *"It'll be after spring break... we will do some exercises about determining the exchange rate gain or loss using the rules of international financial recording for a multinational program."* → Lecture 23 or 24 is likely **consolidation of multinational financial statements and FX gain/loss**.
-  - *"I want to show you this film... 2 days in class, *The Big Short*. It has... very much to do with the subject matter of this course."* → A subsequent session (likely two sessions) is devoted to screening and discussing *The Big Short*, tied to international markets and the 2007–2008 crisis.
-  - *"We'll begin with a discussion of different legal systems... Roman law country versus Anglo-Saxon country."* → A later session covers comparative **legal systems in international business law**.
 
 ## 7. Unclear / to-verify
 

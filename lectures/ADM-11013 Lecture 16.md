@@ -159,8 +159,6 @@ Because Mexico chose to fight other battles. The subsidy dispute is better handl
 - **Forward-looking references within the course:**
   - "Under the negotiations with President Trump, they raised cars to a higher percentage. **We will see that also.**" — points to a later lecture treatment of the auto-specific rule of origin.
   - "What I'm going to do the next class, I really want to make this very practical for you. I want to bring in the documents for a transaction… I want to bring in **5 documents**. They are necessary in Mexico and other countries for a transaction." — explicit pointer to the next class session (contents of customs documentation).
-- **Clues pointing to missed Lectures 23 or 24:** **none** — no explicit references to those lecture numbers appear in either source.
-
 ## 7. Unclear / to-verify
 - **Distance to Mexico's second customs checkpoint:** teacher hedged — *"I think it's 30 kilometers, I believe."* Verify the actual distance (and whether the "second traffic light" system still operates uniformly).
 - **Exact USMCA automobile regional-content threshold** raised under the Trump renegotiation (teacher said "higher percentage" without naming the figure). Worth confirming for exam (commonly cited as **75%** for autos, but this was not stated in the lecture).

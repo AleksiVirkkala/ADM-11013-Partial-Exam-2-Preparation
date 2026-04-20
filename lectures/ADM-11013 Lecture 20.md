@@ -155,8 +155,6 @@ No formal exercise. Instructor handed out three study sheets:
 - **Previous lectures (18–19):** Incoterms, letter of credit, bill of lading, factoring, five shipping documents, customs broker, six levels of economic integration — all reviewed.
 - **Lecture 21 (next class):** Continuation of FDI vs. licensing theories. Instructor explicitly closes: *"And then we'll talk about versus... FDI versus licensing"* — this strongly implies **Knickerbocker's strategic-rivalry theory**, **Dunning's Eclectic Paradigm (OLI)**, **location-specific advantages / externalities / spillovers (Silicon Valley)**, and **benefits & costs of FDI for home and host countries** will be covered next.
 - **USMCA renegotiation:** Instructor notes renegotiation is ongoing "this week" between Mexico, US, Canada — results pending; a possible update/exam hook.
-- **Clues to Lectures 23 or 24 material:** None identified in this transcript. The instructor's forward-looking statements all point to the immediate next class (continuing Ch. 8 FDI theory), not to later lectures.
-
 ## 7. Unclear / to-verify
 
 - **Third case where licensing is not a good option:** The user's exam-prep brief lists *"intense cost-pressure industries"* as the third item under LO 8.6. The transcript explicitly mentions only (1) high-technology industries and (2) global oligopolies; it then trails off into Figure 8.4 without enumerating a clean third bullet. The instructor does hint — *"when there's a very tight, small margin, you can lose it easily"* — which is consistent with cost-pressure industries, but the exact third bullet should be **confirmed against textbook Ch. 8, LO 8.6**.

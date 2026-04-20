@@ -4,8 +4,6 @@ Every question the teacher has explicitly flagged for the April 21 partial, plus
 
 The exam is **essay-style** — aim to write a structured multi-paragraph answer for each flagged question.
 
-**Deferred to May final (do NOT prepare for April 21):** transfer pricing / 4 tax-reduction mechanisms (T16), legal systems / torts / the L24 video (T15). See §"Deferred to May final" at the bottom of this file.
-
 ---
 
 ## Tier 1 — Explicit Control Questions (the 7 written up by the teacher)
@@ -56,7 +54,7 @@ Items the teacher explicitly called out in class beyond the 7 Control Questions.
 
 ### Modes of entry and FDI
 
-- **List the 7 modes of foreign market entry** and briefly describe each. → [T10](topics/T10%20-%20Modes%20of%20Entry.md)
+- **List the 6 modes of foreign market entry** and briefly describe each. → [T10](topics/T10%20-%20Modes%20of%20Entry.md)
 - **Pros and cons of each mode of entry.** → [T10](topics/T10%20-%20Modes%20of%20Entry.md)
 - **The 3 weaknesses of licensing** (loss of know-how; loss of tight control; non-transferable capabilities). Teacher: "This should be written." → [T11](topics/T11%20-%20FDI%20vs%20Licensing.md)
 - **Industries where licensing is especially bad** (high-tech; global oligopoly — Coca-Cola vs Pepsi; cost-pressure industries). → [T11](topics/T11%20-%20FDI%20vs%20Licensing.md)
@@ -109,28 +107,6 @@ Items the teacher emphasised heavily or that are core textbook content in clearl
 
 ---
 
-## Deferred to the May final (NOT on April 21)
-
-The teacher explicitly carved these out of the April 21 partial. Do **not** prepare them for this exam — return to them when studying for the May final.
-
-### Transfer pricing and taxation (T16)
-
-- Teacher (L25, verbatim): *"I'm telling you what I'm gonna put the final exam in May, not April 21st. This is in May, okay?"* — referring directly to the 4 mechanisms.
-- **Explain the 4 mechanisms MNCs use to reduce tax liability** (dividends; royalties on IP; transfer pricing proper; fronting loans). → [T16](topics/T16%20-%20Transfer%20Pricing.md)
-- **Short reflection:** should taxing be harmonised globally? What do you think of tax havens and these strategies? → [T16](topics/T16%20-%20Transfer%20Pricing.md)
-- Two-country / three-country worked scenarios; fronting-loan diagram; Apple / Double Irish. → [T16](topics/T16%20-%20Transfer%20Pricing.md)
-
-### Legal systems in international business (T15)
-
-- Teacher (L25, verbatim, about the video started at end of L24): *"It's a topic on the final exam, but class, what you should study in this exam, for the 21st, relates to all the topics of the [TMEC]."*
-- Contrast Anglo-Saxon (common law) vs Roman (civil law) systems and implications for MNCs. → [T15](topics/T15%20-%20Legal%20Systems.md)
-- Define torts and explain why they matter for multinational firms. → [T15](topics/T15%20-%20Legal%20Systems.md)
-- How does choice-of-law / choice-of-forum affect an international contract? → [T15](topics/T15%20-%20Legal%20Systems.md)
-- How do legal-system differences affect IP protection? → [T15](topics/T15%20-%20Legal%20Systems.md)
-- **Identify the video shown at the end of Lecture 24** (auto-transcribed "Torch"; most likely "Tort"). Ask a classmate — title unconfirmed. → [T15](topics/T15%20-%20Legal%20Systems.md) and [Lectures 23-24 Inferred Gaps](lectures/ADM-11013%20Lectures%2023-24%20Inferred%20Gaps.md).
-
----
-
 ## Things the teacher explicitly said he will NOT ask
 
 - Incoterms sub-variants within a group (e.g. "on the wharf vs at the ship's rail vs inside the vessel"). Group-level understanding is enough. → [T08](topics/T08%20-%20Incoterms.md)
@@ -138,7 +114,7 @@ The teacher explicitly carved these out of the April 21 partial. Do **not** prep
 
 ---
 
-## Revision tracker (fill in yourself — April 21 scope only)
+## Revision tracker (fill in yourself)
 
 
 | Topic | Skimmed | Read deeply | Practice-answered | Confidence 1–5 |
@@ -157,7 +133,5 @@ The teacher explicitly carved these out of the April 21 partial. Do **not** prep
 | T12   |         |             |                   |                |
 | T13   |         |             |                   |                |
 | T14   |         |             |                   |                |
-
-*T15 and T16 are deferred to the May final — don't track here.*
 
 

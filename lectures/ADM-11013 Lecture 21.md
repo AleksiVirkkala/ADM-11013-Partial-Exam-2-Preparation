@@ -26,7 +26,7 @@ Lecture 21 is an exam-review session covering Chapter 8: why firms choose FDI ov
 - [LIKELY] Identifying clusters in specific countries (auto industry, Silicon Valley, Swiss banking, Dutch distribution, South-German automotive, Guadalajara tech).
 
 ### "Remember" callouts
-- The six modes of international entry: Export/Import, Franchising, Manufacturing under license (incl. **maquiladora**), Turnkey project, Strategic alliance / Joint venture, **FDI**, Portfolio investment.
+- The **six modes** of international entry: Export/Import, Manufacturing under license (incl. **maquiladora**), Franchising, Turnkey project, Strategic alliance / Joint venture, **FDI**. (Portfolio investment is a financial BoP concept, not a mode of entry — the teacher excludes it.)
 - Internalization = internalizing the **value of ownership vs. contract** (not "international").
 - Eclectic Paradigm is the term (often mis-spoken as "eclectic paradise/paradox"); author = **John Dunning**.
 - In answers, **combine** "location-specific advantages" with the word **"externalities"** (spillovers).
@@ -151,28 +151,8 @@ No formal exercise was set. In-class examples used as exam-answer ammunition:
 ### To Lecture 22 (consolidation)
 - The lecture ends abruptly in the middle of the benefits/costs table (balance-of-payments benefit not fully explained). Lecture 22 is expected to **complete the four-quadrant benefits/costs table** (host costs, home benefits, home costs).
 
-### Clues pointing to Lectures 23 / 24 / 25
-
-> "in the last 3rd of the course, in the last portion, which deals primarily with matters of foreign direct investment, in finance of the foreign direct investment, like **consolidation of financial statements, how to interpret them, how to calculate exchange** gain or loss."
-
-→ Foreshadows a lecture on **consolidated FS for MNEs and FX gain/loss** — likely L22 or L23.
-
-> "In some theoretical issues of exchange, with formulas, or **exchange rates**, which are in the book, and **interest rates**, and relative matters."
-
-→ Foreshadows a lecture on **exchange-rate theory** (purchasing-power parity, Fisher effect, etc.).
-
-> "I want to talk to you about **international taxation of the multinational firm**, okay? Where you spend at least one day on that."
-
-→ Explicit preview of a later lecture dedicated to **international taxation of MNEs** (likely L24 or L25).
-
-> "I want to talk to you about the difference between legal systems in **Anglo-Saxon and Roman law**. ... I think in commercial law, it affects the multinational corporation. ... Do you all know what **torts** are?"
-
-→ Explicit preview of a later lecture on **comparative commercial law (common law vs. civil law) and torts** in the MNE context.
-
-These four topics — FX/consolidation, exchange-rate theory, international taxation, comparative commercial law — are the explicit roadmap for Lectures 22–25.
-
 ## 7. Unclear / to-verify
-- The notes list **"6 ??"** items at the top but actually enumerate eight entry-mode concepts (Export/Import, Franchising, Manufacturing under license + Maquiladora, Turnkey, Strategic alliance/JV, FDI, Portfolio). The lecturer consistently speaks of **six modes of entry**, treating Export/Import as one, Manufacturing under license as one, Strategic alliance/JV as one, and excluding Portfolio as a "personal" investment. **Verify the canonical 6-vs-7 list the teacher wants in the exam answer.**
+- The notes list **"6 ??"** items at the top but actually enumerate eight entry-mode concepts (Export/Import, Franchising, Manufacturing under license + Maquiladora, Turnkey, Strategic alliance/JV, FDI, Portfolio). **Resolution:** the lecturer consistently speaks of **six modes of entry** (Export/Import, Manufacturing under license, Franchising, Turnkey, JV/Alliance, FDI), treating Maquiladora as a subspecies of licensing and excluding Portfolio as a personal/financial activity. Write **6** on the exam. See [T10](../topics/T10%20-%20Modes%20of%20Entry.md).
 - The lecturer says Dunning **"won the Nobel Prize"** for the Eclectic Paradigm. **This is factually doubtful** — John Dunning was a leading IB scholar but is not on record as a Nobel laureate (the Economics Nobel has never been awarded for the OLI framework). Do not repeat this claim on the exam; attribute the paradigm to Dunning without naming a prize.
 - The notes header references a figure "CleanShot 2026-03-24 at 12.07.26@2x.png" that was **not available in text form**; its content (likely Figure 8.4 or the benefits/costs table) could not be verified.
 - The transcript lists "**four**" limits of licensing but only three are developed. The textbook (p. 238) also lists three. Treat it as **three** on the exam unless Lecture 20 specifies a fourth.

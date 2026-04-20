@@ -15,7 +15,7 @@ A **joint venture (JV)** is a shared-ownership collaboration — typically pairi
 ### 2.1 Definition
 - A **JV** is a **separately-structured, shared-ownership collaboration** between two or more firms to pursue a specific market or project.
 - In the international-business context, it typically pairs one **foreign firm** with one **local firm** in the host country.
-- Distinct from (but often lumped with) a **strategic alliance**, which is a formal contractual collaboration that may or may not involve equity or a separate legal entity. (See [T10 §2.7](T10%20-%20Modes%20of%20Entry.md).)
+- Distinct from (but often lumped with) a **strategic alliance**, which is a formal contractual collaboration that may or may not involve equity or a separate legal entity. (See [T10 §2.6](T10%20-%20Modes%20of%20Entry.md).)
 
 ### 2.2 Why firms form JVs
 1. **Access to local market knowledge, distribution, and political connections** — the foreign firm piggy-backs on the local partner's relationships.
@@ -142,10 +142,9 @@ A **joint venture (JV)** is a shared-ownership collaboration — typically pairi
 ## 9. Connections
 
 - **Related topics:**
-  - [T10 — Modes of Entry](T10%20-%20Modes%20of%20Entry.md) — JV/strategic alliance as one of the 7 canonical modes (§2.7); "access to local knowledge" logic.
+  - [T10 — Modes of Entry](T10%20-%20Modes%20of%20Entry.md) — JV/strategic alliance as one of the 6 canonical modes (§2.6); "access to local knowledge" logic.
   - [T11 — FDI vs Licensing](T11%20-%20FDI%20vs%20Licensing.md) — knowledge-leakage and loss-of-control parallels apply equally to JVs.
   - [T12 — FDI Theories](T12%20-%20FDI%20Theories.md) — internalization theory explains when a JV is *not* enough and full FDI is preferred.
-  - [T15 — Legal Systems](T15%20-%20Legal%20Systems.md) *(upcoming)* — contract enforceability and Roman- vs. Anglo-Saxon-law regimes affect JV design.
 - **Source lecture:** [Lecture 22](../lectures/ADM-11013%20Lecture%2022.md) — §3.3 in-class JV discussion; §5 Control Question 6 polished answer.
 
 ---

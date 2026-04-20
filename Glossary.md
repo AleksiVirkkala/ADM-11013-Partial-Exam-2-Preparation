@@ -182,30 +182,6 @@ For the full explanation, follow the link to the relevant topic file. This gloss
 | **Offshoring**               | Moving domestic production abroad                                      | [T13](topics/T13%20-%20Benefits%20and%20Costs%20of%20FDI.md) |
 
 
-## Legal systems
-
-
-| Term                             | Definition                                                                            | Topic                                      |
-| -------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------ |
-| **Common law** (Anglo-Saxon)     | Judge-made law based on precedent; UK, USA, Canada, Australia                         | [T15](topics/T15%20-%20Legal%20Systems.md) |
-| **Civil law** (Roman / code law) | Code-based law; Mexico, France, Germany, most of continental Europe and Latin America | [T15](topics/T15%20-%20Legal%20Systems.md) |
-| **Theocratic law**               | Religion-based law (e.g. Sharia)                                                      | [T15](topics/T15%20-%20Legal%20Systems.md) |
-| **Tort**                         | Civil wrong causing loss or harm, giving rise to liability                            | [T15](topics/T15%20-%20Legal%20Systems.md) |
-| **Negligence**                   | Failure to exercise reasonable care (type of tort)                                    | [T15](topics/T15%20-%20Legal%20Systems.md) |
-| **Product liability**            | Manufacturer's legal responsibility for harm caused by defective products             | [T15](topics/T15%20-%20Legal%20Systems.md) |
-| **Contract**                     | Legally binding agreement between parties                                             | [T15](topics/T15%20-%20Legal%20Systems.md) |
-| **Choice-of-law clause**         | Contract clause specifying which jurisdiction's law governs                           | [T15](topics/T15%20-%20Legal%20Systems.md) |
-| **Choice-of-forum clause**       | Contract clause specifying which court or tribunal handles disputes                   | [T15](topics/T15%20-%20Legal%20Systems.md) |
-| **International arbitration**    | Private dispute resolution in international commercial disputes                       | [T15](topics/T15%20-%20Legal%20Systems.md) |
-| **ICC (arbitration)**            | International Chamber of Commerce — major arbitration forum                           | [T15](topics/T15%20-%20Legal%20Systems.md) |
-| **LCIA**                         | London Court of International Arbitration                                             | [T15](topics/T15%20-%20Legal%20Systems.md) |
-| **AAA / ICDR**                   | American Arbitration Association / International Centre for Dispute Resolution        | [T15](topics/T15%20-%20Legal%20Systems.md) |
-| **FCPA**                         | Foreign Corrupt Practices Act (US) — anti-bribery statute                             | [T15](topics/T15%20-%20Legal%20Systems.md) |
-| **UK Bribery Act**               | UK's extraterritorial anti-bribery law                                                | [T15](topics/T15%20-%20Legal%20Systems.md) |
-| **IP**                           | Intellectual Property — patents, trademarks, copyrights, trade secrets                | [T15](topics/T15%20-%20Legal%20Systems.md) |
-| **TRIPS**                        | Trade-Related Aspects of Intellectual Property Rights (WTO agreement)                 | [T15](topics/T15%20-%20Legal%20Systems.md) |
-
-
 ## Joint ventures
 
 
@@ -215,25 +191,6 @@ For the full explanation, follow the link to the relevant topic file. This gloss
 | **Cultural clash**             | Incompatible management/organisational cultures (failure factor)  | [T14](topics/T14%20-%20Joint%20Ventures.md) |
 | **Knowledge leakage**          | Partner absorbing know-how to become a future competitor          | [T14](topics/T14%20-%20Joint%20Ventures.md) |
 | **"Merger of equals"**         | Framing used (often misleadingly) in Daimler-Chrysler-style deals | [T14](topics/T14%20-%20Joint%20Ventures.md) |
-
-
-## Transfer pricing and taxation
-
-
-| Term                                 | Definition                                                                         | Topic                                         |
-| ------------------------------------ | ---------------------------------------------------------------------------------- | --------------------------------------------- |
-| **MNC**                              | Multinational Corporation                                                          | [T16](topics/T16%20-%20Transfer%20Pricing.md) |
-| **Transfer pricing**                 | Prices charged on intra-company cross-border transactions                          | [T16](topics/T16%20-%20Transfer%20Pricing.md) |
-| **Transfer pricing strategy**        | Manipulating those prices to shift reported profit to low-tax jurisdictions        | [T16](topics/T16%20-%20Transfer%20Pricing.md) |
-| **Tax haven**                        | Jurisdiction with very low/no corporate tax (and often secrecy)                    | [T16](topics/T16%20-%20Transfer%20Pricing.md) |
-| **Shell corporation / paper entity** | Legal entity with no real operations — used for tax structuring                    | [T16](topics/T16%20-%20Transfer%20Pricing.md) |
-| **Pass-through entity**              | Entity whose income is taxed at the owner level                                    | [T16](topics/T16%20-%20Transfer%20Pricing.md) |
-| **Fronting loan**                    | Loan routed via a third-party bank to disguise intra-firm nature                   | [T16](topics/T16%20-%20Transfer%20Pricing.md) |
-| **Charging dividends**               | Mechanism #1 — subsidiary pays dividends to low-tax parent                         | [T16](topics/T16%20-%20Transfer%20Pricing.md) |
-| **Charging royalties**               | Mechanism #2 — high-tax subsidiary pays royalties to low-tax parent owning the IP  | [T16](topics/T16%20-%20Transfer%20Pricing.md) |
-| **Double Irish (Dutch Sandwich)**    | Historical tax-structuring arrangement now largely closed                          | [T16](topics/T16%20-%20Transfer%20Pricing.md) |
-| **BEPS**                             | Base Erosion and Profit Shifting — OECD initiative against aggressive tax planning | [T16](topics/T16%20-%20Transfer%20Pricing.md) |
-| **SAT**                              | Servicio de Administración Tributaria — Mexico's tax authority                     | [T16](topics/T16%20-%20Transfer%20Pricing.md) |
 
 
 ## Exam-1 foundation terms (rarely on this exam, but useful)

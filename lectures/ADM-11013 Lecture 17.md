@@ -196,8 +196,6 @@ If `NC = $80` and `VNM = $35`:
   - **Incoterms** — "International commercial terms of trade."
   - **Letters of credit.**
   - **Factoring.**
-- **Clues pointing to missed Lectures 23 or 24:** **none** — the transcript flags upcoming material (Incoterms, letters of credit, factoring, five-document review) but does not identify a specific lecture number, and no reference to Lectures 23 or 24 (or their content) appears. The immediate follow-up topics sound like they belong to the next class, not L23/24.
-
 ## 7. Unclear / to-verify
 
 - **Category C worked example.** The transcript gives a garbled second example ("beginning tariff was 15… 2%, 2 plus 2 more…") — notes do not clarify whether this is meant as a 10-year C-category schedule starting at 15% (which would remove 1.5% per year, not 2%). Treat only the B-category 20% → 0% example as confirmed.

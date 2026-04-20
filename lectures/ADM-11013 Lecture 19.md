@@ -186,15 +186,6 @@ How the wine physically and financially reaches the foreign buyer:
 - **Certificate of Origin ↔ FTAs**: links this lecture to the free-trade-agreement material (USMCA/T-MEC, rules of origin, HS tariff categories).
 - **Factoring ↔ general finance**: a working-capital tool, conceptually parallel to LC-backed financing in that both convert uncertain future receipts into certain near-term cash.
 
-### Hints pointing to upcoming lectures (likely Lectures 23 or 24)
-The instructor opens the lecture flagging upcoming deeper treatment of T-MEC / USMCA:
-
-> "What I would like to do on Thursday is to present to you the table of contents and the review of changes they have made up to date. For T-MEC… I think that's one of the goals of this subject matter… to understand the trade integration of Mexico through T-MEC."
-
-> "We only have time in one [class] to talk about this, the T-MEC in detail."
-
-These strongly suggest a subsequent lecture (plausibly 23 or 24) dedicated to T-MEC / USMCA table of contents and recent renegotiation changes — material not covered in this lecture but foreshadowed here.
-
 ## 7. Unclear / to-verify
 - **Scope mismatch vs. expected exam list**: Items sometimes bundled with this lecture in the broader exam-prep context — specifically *3 US agricultural subsidies*, *rules of origin*, the *Maquiladora program (1965 border-assembly exception)*, and *FDI vs. licensing (3 weaknesses of licensing; Fig. 8.4)* — do **not** appear in either the Lecture 19 notes or transcript. They are almost certainly covered in other lectures; do not assume they were re-taught here. Verify against the lectures that actually treated them.
 - **"I'll ask for group E"** (transcript, sample-exam description): ambiguous wording. Most plausible reading is that for the Incoterms exam question the teacher will ask at the level-of-detail of naming/explaining *groups* (e.g., "describe group E, group F, etc."), not every individual term. Worth clarifying with the instructor.
