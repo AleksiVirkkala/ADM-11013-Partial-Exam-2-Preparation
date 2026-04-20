@@ -1,8 +1,8 @@
 # T13 — Benefits and Costs of FDI (Home vs Host Country)
 
-**Appears in lectures:** L20 (FDI entry frame / partial table in notes), L21 (host-country benefits spoken in class; other quadrants cut off by end of class), L22 (Control Question 2 full answer; instructor re-flags as [EXAM])
+**Appears in lectures:** L20 (FDI entry frame / partial table in notes), L21 (host-country benefits spoken in class; other quadrants cut off by end of class), L22 (take-home Control Question 2 — my full four-quadrant draft)
 **Textbook:** Hill Ch. 8, "Benefits and Costs of FDI" — p. 237 onwards (lecturer's print edition; p. 255 in online edition — use section heading rather than page number)
-**Exam priority:** VERY HIGH — **Control Question 2** is exactly this ("What are the principal costs and benefits of FDI for both the home and host country?"). Flagged [EXAM] in both L21 and L22.
+**Exam priority:** HIGH — flagged `[EXAM]` in **L21**: "structure answer in four blocks: benefits to host, benefits to home, costs to host, costs to home." Also appears as L22 Control Question 2 (take-home participation exercise, *not* itself an exam flag).
 
 ## 1. TL;DR
 FDI produces a four-quadrant balance sheet: the **host country** gains capital, technology, jobs, BoP improvements, and stronger competition, but pays in possible loss of competition, profit-repatriation BoP drag, and erosion of national sovereignty. The **home country** gains from repatriated profits, input-supplier spillovers, and reverse knowledge transfer, but absorbs the initial capital outflow, risks long-term trade deficits if production migrates, and may lose domestic jobs. On net, host countries *usually* come out positive — this is why Mexico actively courts ≈ USD 35–40 billion of inward FDI per year — but the costs are real and politically charged.
@@ -100,9 +100,10 @@ FDI produces a four-quadrant balance sheet: the **host country** gains capital, 
 ## 8. Exam questions flagged
 
 ### Explicit
-- **[EXAM] Control Question 2 (L22, verbatim):** *"What are the principal costs and benefits of FDI for both the home and host country?"* (Hill Ch. 8, p. 237)
-- **[EXAM] L21:** "Benefits and costs of FDI — structure answer in four blocks: benefits to host, benefits to home, costs to host, costs to home."
-- **[EXAM] L22 re-flag:** "Costs and benefits of FDI for home and host countries."
+- **[EXAM] L21:** "Benefits and costs of FDI — structure answer in four blocks: benefits to host, benefits to home, costs to host, costs to home." *(The primary exam flag for this topic.)*
+
+### Take-home practice (not exam-flagged)
+- **[PRACTICE — L22 Control Question 2]** *"What are the principal costs and benefits of FDI for both the home and host country?"* (Hill Ch. 8, p. 237.) Same scope as the L21 flag — useful essay practice, but itself part of the participation take-home, not an independent exam flag.
 
 ### Likely
 - **[LIKELY]** Given a specific country scenario (e.g., Mexico, Argentina, a small developing economy), identify which effects dominate and justify.
@@ -126,11 +127,11 @@ FDI produces a four-quadrant balance sheet: the **host country** gains capital, 
 - **Source lectures:**
   - [Lecture 20](../lectures/ADM-11013%20Lecture%2020.md) — FDI framing and limitations of licensing.
   - [Lecture 21](../lectures/ADM-11013%20Lecture%2021.md) — host-country benefits covered in class; other quadrants deferred.
-  - [Lecture 22](../lectures/ADM-11013%20Lecture%2022.md) — Control Question 2 full answer, instructor re-flags [EXAM].
+  - [Lecture 22](../lectures/ADM-11013%20Lecture%2022.md) — my self-drafted answer to take-home Control Question 2 (no teacher feedback).
 
 ## 11. Watch out
-- L20 notes contain only a **partial** benefits/costs table; L21 added host-country benefits in person; **L22's Control Question 2 is the only place where all four quadrants are fully written out**. This topic file consolidates them — rely on this, not on L20 alone.
+- L20 notes contain only a **partial** benefits/costs table; L21 added host-country benefits in person; **my take-home draft for L22 Control Question 2 is the only place where I wrote out all four quadrants in one answer** — but that is my own work without teacher feedback. This topic file consolidates them — rely on this, not on L20 alone.
 - Do **not** confuse the BoP *benefit* to the host (initial inflow, import substitution) with the BoP *cost* (profit repatriation, imported inputs). Both appear on the host side of the matrix; they operate on different time horizons.
-- Do **not** mix this topic with **T12 (FDI theories)** — T12 explains *why firms do FDI* (Internalization / Knickerbocker / Dunning), T13 explains *the consequences for countries*. Exam questions treat them separately (L22 Control Questions 1 and 2).
+- Do **not** mix this topic with **T12 (FDI theories)** — T12 explains *why firms do FDI* (Internalization / Knickerbocker / Dunning), T13 explains *the consequences for countries*.
 - Use **section headings** ("Benefits and Costs of FDI") rather than Hill page numbers — the lecturer's print edition (p. 237) and students' online edition (p. 255) disagree.
 - On Mexico figures: the **≈ USD 38 billion/year** number came from the lecturer; frame it as "≈ USD 35–40 billion" to be safe if quoting on the exam.

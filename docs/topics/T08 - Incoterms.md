@@ -3,7 +3,7 @@
 **Spanish label:** Incoterms (Facturación y pago)
 **Appears in lectures:** L19, L22
 **Textbook:** Hill Ch. 16 (exports)
-**Exam priority:** HIGH — explicit Control Question ("differences among the main groups of Incoterms"); teacher will send an Incoterms video before the exam.
+**Exam priority:** HIGH — teacher explicitly flagged Incoterms as exam material (purpose + 4 categories) and will send an Incoterms video before the exam. The topic also reappeared as L22 Control Question 5 (take-home practice, not an exam flag).
 
 ## 1. TL;DR
 Incoterms (International Commercial Terms) are standardised three-letter codes published by the International Chamber of Commerce (ICC, Paris) that specify how **cost, risk, and responsibility** for freight, insurance, and duties are split between seller and buyer in an international sale-of-goods contract. They exist to **reduce legal ambiguity and disputes** across jurisdictions. There are 11 terms in the current **Incoterms 2020** revision, grouped into four categories — **E / F / C / D** — ordered from least to most seller responsibility. The exam bar is group-level understanding: know what each group means for cost and risk, especially that **C-group splits them** (seller pays freight to destination but risk transfers at origin).
@@ -83,15 +83,19 @@ Incoterms (International Commercial Terms) are standardised three-letter codes p
 ## 6. Exam questions flagged
 
 ### Explicit
-- **[EXAM — Control Question 5]** "What are the differences among the main groups of Incoterms?" — answer at **group level** (E / F / C / D), describing how cost and risk shift along the transport chain, and calling out the C-group split.
 - **[EXAM]** Explain Incoterms: their **purpose**, the information they convey, and the **4 categories** (E / F / C / D). Teacher explicitly flagged this and said he will **send an Incoterms video before the exam** so students can prepare.
 - **[EXAM — likely]** "What problems / issues do Incoterms solve?" — named by the teacher as a possible exam prompt. Answer: reduce legal ambiguity in cross-jurisdictional sales; pre-allocate cost, risk, and responsibility; answer the four practical questions (freight / clearance / duties / risk transfer).
+- **[PRACTICE — L22 Control Question 5]** "What are the differences among the main groups of Incoterms?" — take-home participation exercise, *not* an exam flag, but topically overlaps with the `[EXAM]` item above. Answer at **group level** (E / F / C / D), describing how cost and risk shift along the transport chain, and calling out the C-group split.
 
 ### Not asked
 - Teacher explicitly said he will **NOT** ask students to distinguish **sub-variants within a group** (e.g., FAS vs FOB vs CFR at the exact "wharf vs ship's rail vs inside the vessel vs in the air" point).
 - Do **not** try to memorise all 11 Incoterms — group-level is the exam bar. Teacher framed the required level as "I'll ask for group E" (i.e., describe a group, not every sub-term).
 
-## 7. Polished sample answer (from L22 Control Questions)
+## 7. My practice answer (from the L22 Control Questions take-home)
+
+!!! note "Self-drafted — no teacher feedback"
+    This is my own answer to the L22 take-home exercise. No model answer or feedback was provided.
+
 
 *Q: What are the differences among the main groups of Incoterms?*
 

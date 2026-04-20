@@ -1,9 +1,9 @@
 # T14 — Joint Ventures: Success and Failure Cases
 
 **Spanish label:** Empresas conjuntas (*joint ventures*) — casos de éxito y fracaso
-**Appears in lectures:** L22 (pre-exam review — explicitly flagged)
+**Appears in lectures:** L22 (take-home Control Question 6 and surrounding in-class discussion)
 **Textbook:** Hill Ch. 15 — JV theory p. 442; case study p. 626 *(verify edition)*
-**Exam priority:** MEDIUM-HIGH — **Control Question 6** explicitly asks for **one successful** and **one failed** JV example with reasons. Use **GM + SAIC** and **Daimler-Benz + Chrysler** as the prepared pair.
+**Exam priority:** MEDIUM — the teacher did **not** independently flag JVs as an exam topic. The topic appeared only through L22 Control Question 6, a take-home participation exercise (*"as if it were a test — it is not"*). JVs are still standard course content worth preparing, and the **GM + SAIC** vs **Daimler-Benz + Chrysler** pair makes a clean essay if the exam does touch this.
 
 ## 1. TL;DR
 A **joint venture (JV)** is a shared-ownership collaboration — typically pairing a **foreign firm** (tech, capital, global expertise) with a **local firm** (market knowledge, distribution, government connections). JVs **succeed** when partners bring **genuinely complementary capabilities** and stay strategically aligned (**GM + SAIC in China**). They **fail** when the partners suffer **cultural clashes, misaligned goals, control disputes, or knowledge leakage** (**Daimler-Benz + Chrysler**, 1998–2007). The instructor's recurring exam point: **cultural clash is the dominant failure mechanism**.
@@ -35,7 +35,7 @@ A **joint venture (JV)** is a shared-ownership collaboration — typically pairi
 
 ## 3. Successful case — GM + SAIC Motor (China) [EXAM]
 
-**The prepared "success" answer for Control Question 6.**
+**My prepared "success" answer for the L22 take-home Control Question 6** (self-drafted, no teacher feedback).
 
 - **Partners:**
   - **General Motors (US)** — technology, platforms, global engineering and manufacturing expertise.
@@ -55,9 +55,9 @@ A **joint venture (JV)** is a shared-ownership collaboration — typically pairi
 
 ## 4. Failed case — Daimler-Benz + Chrysler [EXAM]
 
-**The prepared "failure" answer for Control Question 6.**
+**My prepared "failure" answer for the L22 take-home Control Question 6** (self-drafted, no teacher feedback).
 
-- **Structure:** a **1998 "merger of equals"** creating DaimlerChrysler — effectively a **joint-venture-like integration** of two giant carmakers. *(The Control Question answer treats it as JV-like even though strictly speaking it was a merger.)*
+- **Structure:** a **1998 "merger of equals"** creating DaimlerChrysler — effectively a **joint-venture-like integration** of two giant carmakers. *(My take-home answer treats it as JV-like even though strictly speaking it was a merger.)*
 - **Why it failed (exam-ready reasons):**
   1. **Cultural clash** — **German engineering culture** (Daimler-Benz: precision, premium, hierarchical, consensus-through-process) vs. **American mass-market culture** (Chrysler: cost-driven, volume, faster/looser decision-making).
   2. **Management-style conflict** — German executives saw themselves as the senior partner; the promised "merger of equals" became lopsided, demotivating the Chrysler side.
@@ -129,8 +129,11 @@ A **joint venture (JV)** is a shared-ownership collaboration — typically pairi
 ## 8. Exam questions flagged
 
 ### Explicit
-- **[EXAM] Control Question 6 (L22):** *"To the best of your knowledge, what is an example of a joint venture that has worked well over the long run and what is an example of a joint venture that has not worked well and hence was dissolved?"*
-  - **Prepared answer:** GM + SAIC (success) vs. Daimler-Benz + Chrysler (failure). Use §§ 3–4 as the spine. Anchor reasons in §6.
+- *No independent `[EXAM]` flag on this topic.* The teacher did not call out JVs as exam-bound in any lecture.
+
+### Take-home practice (not exam-flagged)
+- **[PRACTICE — L22 Control Question 6]** *"To the best of your knowledge, what is an example of a joint venture that has worked well over the long run and what is an example of a joint venture that has not worked well and hence was dissolved?"*
+  - **My prepared answer:** GM + SAIC (success) vs. Daimler-Benz + Chrysler (failure). Use §§ 3–4 as the spine. Anchor reasons in §6.
 
 ### Likely
 - **[LIKELY]** What are the **most common reasons JVs fail?** → Use §2.3 + §6 right-hand column; lead with **cultural clash**.
@@ -145,17 +148,17 @@ A **joint venture (JV)** is a shared-ownership collaboration — typically pairi
   - [T10 — Modes of Entry](T10%20-%20Modes%20of%20Entry.md) — JV/strategic alliance as one of the 6 canonical modes (§2.6); "access to local knowledge" logic.
   - [T11 — FDI vs Licensing](T11%20-%20FDI%20vs%20Licensing.md) — knowledge-leakage and loss-of-control parallels apply equally to JVs.
   - [T12 — FDI Theories](T12%20-%20FDI%20Theories.md) — internalization theory explains when a JV is *not* enough and full FDI is preferred.
-- **Source lecture:** [Lecture 22](../lectures/ADM-11013%20Lecture%2022.md) — §3.3 in-class JV discussion; §5 Control Question 6 polished answer.
+- **Source lecture:** [Lecture 22](../lectures/ADM-11013%20Lecture%2022.md) — §3.3 in-class JV discussion; §5 take-home Control Question 6 (my self-drafted answer, no teacher feedback).
 
 ---
 
 ## 10. Watch out
 
-- **Daimler-Chrysler was technically a *merger*, not a JV.** The Control Questions answer deliberately frames it as "JV-like" because the failure mechanisms (cultural clash, control disputes, strategic misalignment) are **exactly** those of a failed JV. On the exam, flag it as "JV-like integration" rather than calling it a pure JV.
+- **Daimler-Chrysler was technically a *merger*, not a JV.** My take-home answer deliberately frames it as "JV-like" because the failure mechanisms (cultural clash, control disputes, strategic misalignment) are **exactly** those of a failed JV. On the exam, flag it as "JV-like integration" rather than calling it a pure JV.
 - **Cultural clash is the money phrase.** The instructor said it repeatedly in L22. Any failure answer should say "cultural clash" explicitly.
 - **GM + SAIC: don't overstate it as purely voluntary.** China historically **required** a local partner in automotive — the partnership was a **regulatory response** as well as a strategic one. Mention both.
 - **Hungarian Suzuki name.** Transcribed as "too" in the raw transcript — **Magyar Suzuki** is the near-certain referent; if uncertain in the exam, describe the situation ("a Japanese car manufacturer's successful JV in Hungary").
 - **Carrefour Mexico is arguably FDI, not JV.** The instructor himself flagged this caveat. If you use it on the exam, describe it as **"a cross-border market entry that failed due to poor local-consumer understanding"** rather than forcing a JV label.
 - **Ikarus + Crown Coach** — the US partner's name comes from a student comment; **verify** before using it as a named example.
 - **If uncertain about a name, describe the situation.** Several of the supporting examples (Renault-Nissan, Carrefour, Magyar Suzuki, Ikarus) come from garbled transcripts. Describing the pattern ("a French retailer that withdrew from Mexico because it misread local consumer preferences") is safer than risking a wrong name.
-- **Don't confuse JV failure with *business* failure.** A JV can be "dissolved" and still have been profitable — the Control Question asks about JVs that **"did not work well and hence were dissolved"**, which is a stronger claim than simply ending.
+- **Don't confuse JV failure with *business* failure.** A JV can be "dissolved" and still have been profitable — the take-home question asks about JVs that **"did not work well and hence were dissolved"**, which is a stronger claim than simply ending.

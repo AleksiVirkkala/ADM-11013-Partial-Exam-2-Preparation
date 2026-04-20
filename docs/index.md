@@ -37,7 +37,7 @@ When short on time, prioritise topics marked **HIGH** or **VERY HIGH** in the ta
 | T01 | [Economic Integration: The 6 Stages](topics/T01%20-%20Economic%20Integration.md) | HIGH     | Teacher flagged "certain to ask"; foundational for everything else                                 |
 | T02 | [NAFTA and TMEC / USMCA](topics/T02%20-%20NAFTA%20and%20TMEC.md)                 | HIGH     | Multiple explicit exam flags: rules of origin formulas, tariff schedule, Maquiladora, TMEC changes |
 | T03 | [US Agricultural Subsidies](topics/T03%20-%20US%20Agricultural%20Subsidies.md)   | HIGH     | Teacher: "I'm certain to put this on the test"                                                     |
-| T04 | [Tariffs: Policy and Opinion Essay](topics/T04%20-%20Tariffs%20Policy.md)        | HIGH     | Explicit Control Question 7 (balanced opinion, Hill Ch. 7)                                         |
+| T04 | [Tariffs: Policy and Opinion Essay](topics/T04%20-%20Tariffs%20Policy.md)        | MEDIUM   | Hill Ch. 7 content; also one of the L22 take-home practice questions (not teacher-flagged as exam) |
 
 
 ### Cluster B — Exporting mechanics
@@ -48,20 +48,20 @@ When short on time, prioritise topics marked **HIGH** or **VERY HIGH** in the ta
 | T05 | [Export Costing (direct vs absorption, dumping)](topics/T05%20-%20Export%20Costing.md)                          | MEDIUM–HIGH | Teacher spent a full class on this; bonus-point hint                     |
 | T06 | [Export Plan (4Ps framework)](topics/T06%20-%20Export%20Plan%204Ps.md)                                          | HIGH        | Teacher wants students able to build an export plan from scratch         |
 | T07 | [Export Documents and 8-Step Flow](topics/T07%20-%20Export%20Documents%20and%20Flow.md)                         | HIGH        | 5 documents + Bill of Lading 3 purposes + 8-step flow — all exam-certain |
-| T08 | [Incoterms (E / F / C / D)](topics/T08%20-%20Incoterms.md)                                                      | HIGH        | Control Question 5; teacher will send video                              |
-| T09 | [Trade Finance: Letter of Credit and Factoring](topics/T09%20-%20Trade%20Finance%20-%20LC%20and%20Factoring.md) | HIGH        | Control Question 4; teacher will send video                              |
+| T08 | [Incoterms (E / F / C / D)](topics/T08%20-%20Incoterms.md)                                                      | HIGH        | Teacher will send Incoterms video before exam — strong exam signal       |
+| T09 | [Trade Finance: Letter of Credit and Factoring](topics/T09%20-%20Trade%20Finance%20-%20LC%20and%20Factoring.md) | HIGH        | L19: "most likely on the exam… probably on the second exam"; LC video    |
 
 
 ### Cluster C — Modes of entry and FDI
 
 
-| #   | Topic                                                                                             | Priority    | Why it matters                                                         |
-| --- | ------------------------------------------------------------------------------------------------- | ----------- | ---------------------------------------------------------------------- |
-| T10 | [Modes of Foreign Market Entry (6 modes)](topics/T10%20-%20Modes%20of%20Entry.md)                 | HIGH        | Must be able to list and describe each mode; Maquiladora flagged       |
-| T11 | [FDI vs Licensing — Weaknesses of Licensing](topics/T11%20-%20FDI%20vs%20Licensing.md)            | VERY HIGH   | Teacher: "This should be written" — 3 weaknesses + 3 industry contexts |
-| T12 | [FDI Theories (Internalization, Knickerbocker, Dunning)](topics/T12%20-%20FDI%20Theories.md)      | VERY HIGH   | Control Question 1; plus Silicon Valley question                       |
-| T13 | [Benefits and Costs of FDI (home vs host)](topics/T13%20-%20Benefits%20and%20Costs%20of%20FDI.md) | VERY HIGH   | Control Question 2 — the 2×2 matrix                                    |
-| T14 | [Joint Ventures — Success and Failure](topics/T14%20-%20Joint%20Ventures.md)                      | MEDIUM–HIGH | Control Question 6 — prepared pair (GM+SAIC vs Daimler-Chrysler)       |
+| #   | Topic                                                                                             | Priority  | Why it matters                                                            |
+| --- | ------------------------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------- |
+| T10 | [Modes of Foreign Market Entry (6 modes)](topics/T10%20-%20Modes%20of%20Entry.md)                 | HIGH      | Must be able to list and describe each mode; Maquiladora flagged          |
+| T11 | [FDI vs Licensing — Weaknesses of Licensing](topics/T11%20-%20FDI%20vs%20Licensing.md)            | VERY HIGH | Teacher: "This should be written" — 3 weaknesses + 3 industry contexts    |
+| T12 | [FDI Theories (Internalization, Knickerbocker, Dunning)](topics/T12%20-%20FDI%20Theories.md)      | VERY HIGH | Silicon Valley question explicitly flagged — must use specific phrases    |
+| T13 | [Benefits and Costs of FDI (home vs host)](topics/T13%20-%20Benefits%20and%20Costs%20of%20FDI.md) | HIGH      | L21 flagged: "structure answer in four blocks" — host/home × cost/benefit |
+| T14 | [Joint Ventures — Success and Failure](topics/T14%20-%20Joint%20Ventures.md)                      | MEDIUM    | Not independently teacher-flagged; covered in L22 take-home practice      |
 
 
 ---
@@ -116,22 +116,24 @@ flowchart TD
     T12 --> T13
 ```
 
+
+
 ---
 
 ## 6. Cramming path (if you have only a few hours)
 
-If time is very short, study in this order:
+If time is very short, study in this order (roughly: teacher-flagged exam items first, practice-only items last):
 
-1. **T12 FDI Theories** — compare/contrast question (Control Q1) — biggest essay answer.
-2. **T13 Benefits & Costs of FDI** — memorise the 2×2 matrix (Control Q2).
-3. **T11 FDI vs Licensing** — the 3 weaknesses + 3 bad-industry contexts (Control Q3).
+1. **T12 FDI Theories** — the compare/contrast essay; Silicon Valley question is explicitly flagged.
+2. **T11 FDI vs Licensing** — the 3 weaknesses + 3 bad-industry contexts. Teacher: "this should be written."
+3. **T13 Benefits & Costs of FDI** — the 2×2 matrix. L21 flagged.
 4. **T02 NAFTA / TMEC** — rules-of-origin formulas and tariff schedule.
 5. **T07 Documents & 8-step flow** — memorise all lists.
-6. **T08 Incoterms** — the 4 groups table (Control Q5).
-7. **T09 Letter of Credit** — the 10-step flow (Control Q4).
-8. **T14 Joint Ventures** — the GM+SAIC vs. Daimler-Chrysler pair (Control Q6).
-9. **T03 US Ag Subsidies** — the 3 subsidies.
-10. **T04 Tariffs** — be able to write a balanced paragraph (Control Q7).
+6. **T09 Letter of Credit** — the 10-step flow. L19: "most likely on the exam."
+7. **T08 Incoterms** — the 4 groups table. Teacher will send a video.
+8. **T03 US Ag Subsidies** — the 3 subsidies. Teacher: "certain to put this on the test."
+9. **T14 Joint Ventures** — the GM+SAIC vs. Daimler-Chrysler pair (L22 take-home practice — not teacher-flagged, but useful essay practice).
+10. **T04 Tariffs** — be able to write a balanced paragraph (L22 take-home practice — same caveat).
 
 Topics T01, T05, T06, T10 can be skimmed if time-constrained — they are important but mostly support the essay topics above.
 
@@ -139,7 +141,7 @@ Topics T01, T05, T06, T10 can be skimmed if time-constrained — they are import
 
 ## 7. Mastery path (if you have more time)
 
-Go cluster-by-cluster in order A → B → C, following the chronology above. After each cluster, self-test by trying to answer every Control Question from the [Exam Priority Index](Exam%20Priority%20Index.md) for that cluster without looking.
+Go cluster-by-cluster in order A → B → C, following the chronology above. After each cluster, self-test by trying to answer every `[EXAM]` item from the [Exam Priority Index](Exam%20Priority%20Index.md) for that cluster without looking. The Tier 2 Control Questions make good additional essay practice but are not confirmed exam items.
 
 ---
 
@@ -213,3 +215,4 @@ study-notes/
     ├── ADM-11013 Lecture 21.md
     └── ADM-11013 Lecture 22.md
 ```
+

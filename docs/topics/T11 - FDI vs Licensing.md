@@ -2,7 +2,7 @@
 
 **Appears in lectures:** L20, L21, L22
 **Textbook:** Hill, Ch. 8 — *Limitations of Exporting & Licensing* (instructor's edition p. 231; other editions p. 238); *Focus on Managerial Implications* (p. 244 / p. 253); **Figure 8.4** decision framework (numbered 8.1 in some editions — verify).
-**Exam priority:** **VERY HIGH** — instructor explicitly: *"This should be written. Weaknesses of licensing."* Re-flagged in L20, L21, and L22.
+**Exam priority:** **VERY HIGH** — instructor explicitly: *"This should be written. Weaknesses of licensing."* Flagged independently in L20 and L21. (Also appears as L22 Control Question 3, a take-home practice exercise — not itself an exam flag.)
 
 ---
 
@@ -113,11 +113,13 @@ This is exactly what **internalization theory / market-imperfections approach** 
 ## 7. Exam questions flagged
 
 ### Explicit [EXAM]
-- **"Weaknesses of licensing"** — write as an essay, list all three. *"This should be written."* (L20, L21, L22)
+- **"Weaknesses of licensing"** — write as an essay, list all three. *"This should be written."* (L20, L21)
 - **"What are specific industries / companies where licensing is not a good option?"** — give the three categories (high-tech, global oligopolies, cost-pressure) with examples (Coca-Cola/Pepsi for oligopoly). (L21, verbatim flag)
-- **Relative advantages of FDI vs. licensing** — essay. Explain the three weaknesses and connect to internalization theory. (L20, L22)
-- **"Principal weaknesses of Licensing vs. FDI"** — L22 Control Question 3.
+- **Relative advantages of FDI vs. licensing** — essay. Explain the three weaknesses and connect to internalization theory. (L20)
 - **Why FDI over licensing?** — the composite essay.
+
+### Take-home practice (not exam-flagged)
+- **[PRACTICE — L22 Control Question 3]** "Principal weaknesses of Licensing vs. FDI" — same essay as above; useful practice, but the exam flag comes from L20/L21, not from this take-home exercise.
 
 ### Likely [LIKELY]
 - Identify the industry type from a short scenario and choose FDI or licensing (high-tech → FDI, simple franchise → licence, oligopoly → FDI, thin-margin manufacturing → FDI).
@@ -142,7 +144,7 @@ This is exactly what **internalization theory / market-imperfections approach** 
   - [T10 — Modes of Entry](T10%20-%20Modes%20of%20Entry.md) — licensing and FDI are two of the six modes; this topic is the pairwise comparison.
   - [T12 — FDI Theories](T12%20-%20FDI%20Theories.md) — **internalization theory** formalises the three weaknesses; Knickerbocker (strategic behaviour) and Dunning (OLI / eclectic paradigm) extend the argument.
   - [T13 — Benefits and Costs of FDI](T13%20-%20Benefits%20and%20Costs%20of%20FDI.md) — once FDI is chosen, what it does for home/host countries.
-- **Source lectures:** [Lecture 20](../lectures/ADM-11013%20Lecture%2020.md) (§3.7, §3.8, §3.9), [Lecture 21](../lectures/ADM-11013%20Lecture%2021.md) (§3.2, §3.3, §3.5), [Lecture 22](../lectures/ADM-11013%20Lecture%2022.md) (§2 exam flags, §5 Control Question 3).
+- **Source lectures:** [Lecture 20](../lectures/ADM-11013%20Lecture%2020.md) (§3.7, §3.8, §3.9), [Lecture 21](../lectures/ADM-11013%20Lecture%2021.md) (§3.2, §3.3, §3.5), [Lecture 22](../lectures/ADM-11013%20Lecture%2022.md) (§5 take-home Control Question 3 — self-drafted answer, no teacher feedback).
 
 ---
 

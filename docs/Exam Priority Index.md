@@ -6,29 +6,9 @@ The exam is **essay-style** — aim to write a structured multi-paragraph answer
 
 ---
 
-## Tier 1 — Explicit Control Questions (the 7 written up by the teacher)
+## Tier 1 — `[EXAM]` items flagged in lectures
 
-These are the seven prepared exam questions from the `Lecture 22 Control Questions` document. The teacher wrote up model-length answers for each; they are preserved in [Lecture 22](lectures/ADM-11013%20Lecture%2022.md) section 5 and consolidated in the relevant topic files.
-
-
-| #      | Question (verbatim)                                                                                                                                            | Primary topic                                                                              |
-| ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| **Q1** | Compare and contrast the explanations of FDI: Internalization theory, Strategic Behavior theory of Knickerbocker, and the Eclectic Paradigm.                   | [T12 — FDI Theories](topics/T12%20-%20FDI%20Theories.md)                                   |
-| **Q2** | What are the principal costs and benefits of FDI for both the home and host country?                                                                           | [T13 — Benefits and Costs of FDI](topics/T13%20-%20Benefits%20and%20Costs%20of%20FDI.md)   |
-| **Q3** | What are the principal weaknesses of Licensing vs. FDI?                                                                                                        | [T11 — FDI vs Licensing](topics/T11%20-%20FDI%20vs%20Licensing.md)                         |
-| **Q4** | Firms engaged in international trade must do business with people they cannot trust. How can each party protect themselves, and how would such a defense work? | [T09 — Trade Finance (LC)](topics/T09%20-%20Trade%20Finance%20-%20LC%20and%20Factoring.md) |
-| **Q5** | What are the differences among the main groups of Incoterms?                                                                                                   | [T08 — Incoterms](topics/T08%20-%20Incoterms.md)                                           |
-| **Q6** | To the best of your knowledge, an example of a joint venture that has worked well long-term vs one that has not worked and was dissolved.                      | [T14 — Joint Ventures](topics/T14%20-%20Joint%20Ventures.md)                               |
-| **Q7** | What is your opinion regarding the use of tariffs in international trade? (Chapter 7)                                                                          | [T04 — Tariffs Policy](topics/T04%20-%20Tariffs%20Policy.md)                               |
-
-
-**These seven are the most important single items on the exam.** Prepare a complete essay-length answer for each.
-
----
-
-## Tier 2 — Additional `[EXAM]` items flagged in lectures
-
-Items the teacher explicitly called out in class beyond the 7 Control Questions. Sorted by topic.
+Items the teacher explicitly called out in class as exam-relevant. Sorted by topic.
 
 ### Trade policy and TMEC
 
@@ -61,6 +41,26 @@ Items the teacher explicitly called out in class beyond the 7 Control Questions.
 - **Relative advantages of FDI over licensing.** → [T11](topics/T11%20-%20FDI%20vs%20Licensing.md)
 - **Why Silicon Valley formed there** — answer must use the phrases "location-specific advantages" and "externalities". → [T12](topics/T12%20-%20FDI%20Theories.md)
 - **Explain the Eclectic Paradigm** using the specific terms "location-specific advantages" and "externalities". → [T12](topics/T12%20-%20FDI%20Theories.md)
+
+---
+
+## Tier 2 — L22 Control Questions (practice only — not flagged as exam)
+
+> **Important context:** These are the seven take-home questions the teacher handed out in Lecture 22 as a written **participation** exercise. The transcript of Lecture 22 is explicit: *"as if it were a test. **It is not**. It would be [graded as] part of your participation."* No teacher model answers or feedback were provided — the answers in [Lecture 22 § 5](lectures/ADM-11013%20Lecture%2022.md#5-my-answers-to-the-l22-take-home-practice-questions) and in the topic files are **my own drafts** and have not been reviewed.
+>
+> Topically the questions overlap heavily with material the teacher did flag for the exam elsewhere (see Tier 1). Use them as essay-format practice for those topics, but do not assume the exam will ask these specific questions.
+
+
+| #      | Question (verbatim)                                                                                                                                            | Primary topic                                                                              |
+| ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| **Q1** | Compare and contrast the explanations of FDI: Internalization theory, Strategic Behavior theory of Knickerbocker, and the Eclectic Paradigm.                   | [T12 — FDI Theories](topics/T12%20-%20FDI%20Theories.md)                                   |
+| **Q2** | What are the principal costs and benefits of FDI for both the home and host country?                                                                           | [T13 — Benefits and Costs of FDI](topics/T13%20-%20Benefits%20and%20Costs%20of%20FDI.md)   |
+| **Q3** | What are the principal weaknesses of Licensing vs. FDI?                                                                                                        | [T11 — FDI vs Licensing](topics/T11%20-%20FDI%20vs%20Licensing.md)                         |
+| **Q4** | Firms engaged in international trade must do business with people they cannot trust. How can each party protect themselves, and how would such a defense work? | [T09 — Trade Finance (LC)](topics/T09%20-%20Trade%20Finance%20-%20LC%20and%20Factoring.md) |
+| **Q5** | What are the differences among the main groups of Incoterms?                                                                                                   | [T08 — Incoterms](topics/T08%20-%20Incoterms.md)                                           |
+| **Q6** | To the best of your knowledge, an example of a joint venture that has worked well long-term vs one that has not worked and was dissolved.                      | [T14 — Joint Ventures](topics/T14%20-%20Joint%20Ventures.md)                               |
+| **Q7** | What is your opinion regarding the use of tariffs in international trade? (Chapter 7)                                                                          | [T04 — Tariffs Policy](topics/T04%20-%20Tariffs%20Policy.md)                               |
+
 
 ---
 

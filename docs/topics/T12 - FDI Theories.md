@@ -2,7 +2,7 @@
 
 **Appears in lectures:** L20, L21, L22
 **Textbook:** Hill Ch. 8 (FDI theory); p. 231 onwards (edition varies — p. 231 in instructor's copy; verify your edition)
-**Exam priority:** VERY HIGH — Control Question 1 asks to compare and contrast these three theories
+**Exam priority:** VERY HIGH — the **Silicon Valley / Eclectic Paradigm** question is explicitly teacher-flagged (must use the phrases "location-specific advantages" and "externalities"). The three theories were also covered in L20 and appear as L22 Control Question 1 (take-home practice, not itself an exam flag).
 
 ## 1. TL;DR
 The three FDI theories are complementary explanations for **why firms serve foreign markets through FDI rather than exporting or licensing**. **Internalization theory** says FDI arises from market imperfections — firms "internalize" transactions when contracts (licensing) cannot adequately protect know-how, enforce tight control, or transfer tacit capabilities. **Knickerbocker's Strategic Behavior theory** explains FDI as imitative, herd-like moves inside oligopolies — rivals match each other's international investments to preserve competitive parity rather than to maximize efficiency. **Dunning's Eclectic Paradigm (OLI)** synthesizes the other two and adds the missing piece — **location**: FDI occurs where Ownership, Location, and Internalization advantages coincide.
@@ -105,10 +105,11 @@ FDI occurs when three advantages coincide:
 ## 7. Exam questions flagged
 
 ### Explicit
-- **[EXAM] Control Question 1**: "Compare and contrast the explanations of FDI: Internalization theory, Strategic Behavior theory of Knickerbocker, and the Eclectic Paradigm." (Lecture 22; Book p. 231)
 - **[EXAM] Why did Silicon Valley form where it did?** — Teacher flagged explicitly. Answer must **combine the phrases "location-specific advantages" AND "externalities" (or "spillovers")**. Core elements: Stanford + Berkeley talent pool → firm clustering → knowledge externalities → self-reinforcing cluster.
 - **[EXAM] Explain the Eclectic Paradigm**, with emphasis on **"location-specific advantages"** and **"externalities"** (teacher's preferred terminology — use these exact phrases).
-- **[EXAM] FDI theories named together** (L22, Book p. 231): Internalization, Knickerbocker Strategic Behavior, Eclectic Paradigm.
+
+### Take-home practice (not exam-flagged)
+- **[PRACTICE — L22 Control Question 1]** "Compare and contrast the explanations of FDI: Internalization theory, Strategic Behavior theory of Knickerbocker, and the Eclectic Paradigm." (Book p. 231.) Valuable essay-structure practice covering the same three theories, but the only independent exam flag on this topic is the Silicon Valley / Eclectic Paradigm question above.
 
 ### Likely
 - **[LIKELY]** Given a specific FDI case, identify **which theory best explains** it (e.g., a Japanese auto plant in the US following Toyota's move → Knickerbocker; Apple producing in Guadalajara → OLI with location advantages; a pharma firm not licensing its drug molecule → Internalization).

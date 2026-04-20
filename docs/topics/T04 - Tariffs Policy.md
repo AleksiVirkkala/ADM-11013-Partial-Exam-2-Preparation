@@ -1,8 +1,8 @@
 # T04 — Tariffs: Policy Arguments and Opinion Essay
 
-**Appears in lectures:** L22 (Control Questions); foundation from exam 1 (tariff-barrier taxonomy, protectionist Mexico pre-1989)
+**Appears in lectures:** L22 (take-home Control Question 7); foundation from exam 1 (tariff-barrier taxonomy, protectionist Mexico pre-1989)
 **Textbook:** Hill Ch. 7 — definitions *p. 195*; import quotas *p. 197*; export tariffs and bans *p. 198*; protecting jobs and industries *p. 201*; retaliation *p. 202*. Verify edition.
-**Exam priority:** HIGH — appears as an explicit Control Question ("your opinion on tariffs")
+**Exam priority:** MEDIUM — the teacher did **not** flag this as an exam topic. It appeared only as one of the L22 take-home participation questions (*"as if it were a test — it is not"*). Hill Ch. 7 is standard course material, so it remains worth preparing as essay practice.
 
 ## 1. TL;DR
 Tariffs are taxes on imports (duties = tariffs = taxes, per the instructor). They can be justified narrowly — protecting infant industries, generating revenue, countering unfair foreign subsidies, or pressuring markets to open — but the mainstream economic view in Hill Ch. 7 is that on balance they raise consumer prices, misallocate resources, reduce competition, and invite retaliation that escalates into welfare-destroying trade wars. A defensible exam answer takes a **balanced position**: tariffs are a legitimate but second-best tool, appropriate in specific cases and harmful as a general policy. The instructor explicitly warned against extremism (neither 0 % nor 100 %) and against turning the essay into a political piece about any single leader.
@@ -77,9 +77,13 @@ A defensible opinion for the exam:
 ## 8. Exam questions flagged
 
 ### Explicit
-- **[EXAM — Control Question 7]** "What is your opinion regarding the use of tariffs in international trade?" (Hill Ch. 7.) Answer must cite the chapter's concepts — definitions *(p. 195)*, import quotas *(p. 197)*, export tariffs and bans *(p. 198)*, protecting jobs and industries *(p. 201)*, retaliation *(p. 202)* — and present a **balanced view**. Teacher explicitly discouraged turning the answer into a political essay about any individual leader.
+- *No explicit exam flag for this topic.* It appears only as **L22 Control Question 7** (take-home participation exercise, not flagged as exam): *"What is your opinion regarding the use of tariffs in international trade?"* (Hill Ch. 7.) A good answer cites the chapter's concepts — definitions *(p. 195)*, import quotas *(p. 197)*, export tariffs and bans *(p. 198)*, protecting jobs and industries *(p. 201)*, retaliation *(p. 202)* — and presents a **balanced view**. Teacher explicitly discouraged turning the answer into a political essay about any individual leader.
 
-## 9. Polished sample answer (from L22 Control Questions)
+## 9. My practice answer (from the L22 Control Questions take-home)
+
+!!! note "Self-drafted — no teacher feedback"
+    This is my own answer to the L22 take-home exercise. No model answer or feedback was provided.
+
 
 *Definition: Book: p. 195*
 *Import quotas: Book: p. 197*

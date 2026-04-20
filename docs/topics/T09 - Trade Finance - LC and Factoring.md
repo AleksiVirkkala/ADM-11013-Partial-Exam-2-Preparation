@@ -3,7 +3,7 @@
 **Spanish label:** Facturación y pago — Carta de crédito
 **Appears in lectures:** L19, L22
 **Textbook:** Hill Ch. 16; letter of credit explained **p. 474**
-**Exam priority:** HIGH — multiple explicit exam flags; Control Question 4 (L22) is exactly about how parties protect themselves without trust.
+**Exam priority:** HIGH — L19 teacher flag ("most likely on the exam… probably on the second exam"); teacher will send an LC video before the exam. The topic also appears as L22 Control Question 4 (take-home practice, not an exam flag).
 
 ## 1. TL;DR
 When a buyer and seller in different countries have no basis to trust each other, neither wants to ship first nor pay first. A **Letter of Credit (LC)** inserts two banks between them: the buyer's **issuing bank** promises payment to the seller against **compliant documents**, and the seller's **advising bank** authenticates the LC and handles documents. Counterparty risk is replaced by bank risk (which is cheap — banks charge a fee for it). The linchpin is the Bill of Lading: the buyer can only claim the goods once the issuing bank releases it, and that release happens only after payment/credit is arranged. **Factoring** is a separate, simpler tool: selling receivables to a third party (the "factor") at a discount for immediate cash — a working-capital fix, not a trust substitute.
@@ -79,9 +79,9 @@ If the two banks have no correspondent relationship, a global bank (Citibank, De
 ## 5. Exam questions flagged
 
 ### Explicit
-- **[EXAM]** *Control Question 4 (L22):* "Firms engaged in international trade must do business with people they cannot trust… How can each party protect themselves in these situations and how would such a defense work?" — answer centred on the LC mechanism (Hill **p. 474**).
 - **[EXAM]** *L19:* Explain the functioning of a letter of credit — teacher flagged as "most likely on the exam… probably on the second exam".
-- **[EXAM]** *L19 / L22:* Step-by-step flow of an LC — teacher said he will send an LC video before the exam for students to prepare.
+- **[EXAM]** *L19:* Step-by-step flow of an LC — teacher said he will send an LC video before the exam for students to prepare.
+- **[PRACTICE — L22 Control Question 4]** "Firms engaged in international trade must do business with people they cannot trust… How can each party protect themselves in these situations and how would such a defense work?" — L22 take-home participation exercise, *not* an exam flag, but topically overlaps with the `[EXAM]` items above. Answer centred on the LC mechanism (Hill **p. 474**).
 
 ### Likely
 - **[LIKELY]** *L19:* Explain what factoring is — teacher stressed "I want you to know what factoring is"; conceptually simple, plausible short definitional question.
