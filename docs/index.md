@@ -122,20 +122,30 @@ flowchart TD
 
 ## 6. Cramming path (if you have only a few hours)
 
-If time is very short, study in this order (roughly: teacher-flagged exam items first, practice-only items last):
+Ordered by strength + breadth of the teacher's own exam flags. Topics at the top have the strongest signal (`"certain"`, `"most likely"`, `"this should be written"`); topics at the bottom are practice-only from the L22 take-home and were not flagged as exam material.
 
-1. **T12 FDI Theories** — the compare/contrast essay; Silicon Valley question is explicitly flagged.
-2. **T11 FDI vs Licensing** — the 3 weaknesses + 3 bad-industry contexts. Teacher: "this should be written."
-3. **T13 Benefits & Costs of FDI** — the 2×2 matrix. L21 flagged.
-4. **T02 NAFTA / TMEC** — rules-of-origin formulas and tariff schedule.
-5. **T07 Documents & 8-step flow** — memorise all lists.
-6. **T09 Letter of Credit** — the 10-step flow. L19: "most likely on the exam."
-7. **T08 Incoterms** — the 4 groups table. Teacher will send a video.
-8. **T03 US Ag Subsidies** — the 3 subsidies. Teacher: "certain to put this on the test."
-9. **T14 Joint Ventures** — the GM+SAIC vs. Daimler-Chrysler pair (L22 take-home practice — not teacher-flagged, but useful essay practice).
-10. **T04 Tariffs** — be able to write a balanced paragraph (L22 take-home practice — same caveat).
+**Strongest teacher flags — do these first:**
 
-Topics T01, T05, T06, T10 can be skimmed if time-constrained — they are important but mostly support the essay topics above.
+1. **T11 FDI vs Licensing** — the 3 weaknesses + 3 bad-industry contexts. Teacher: *"This should be written."* Re-flagged in L20 and L21.
+2. **T12 FDI Theories** — Silicon Valley explicitly flagged (must use "location-specific advantages" + "externalities"); also compare/contrast the three theories.
+3. **T07 Documents & 8-step flow** — 5 documents + 3 Bill of Lading purposes + 8-step flow + HCC. All "exam-certain"; pure memorisation, highest ROI per hour.
+4. **T03 US Ag Subsidies** — the 3 subsidies. Teacher: *"I'm certain to put this on the test."*
+5. **T01 Economic Integration** — the 6 stages, with one example each. Teacher: *"certain to ask"*; foundational for T02.
+6. **T02 NAFTA / TMEC** — rules-of-origin formulas (TV 60 %, NC 50 %), tariff schedule A/B/C/C+, TMEC revisions, Maquiladora. Multiple flags.
+7. **T09 Letter of Credit** — the 10-step flow. L19: *"most likely on the exam… probably on the second exam."* Teacher will send a video.
+8. **T08 Incoterms** — the 4 groups (E/F/C/D); purpose + what each covers. Teacher will send a video.
+
+**Still flagged but narrower / derivative:**
+
+9. **T13 Benefits & Costs of FDI** — the 2×2 matrix. L21: *"structure answer in four blocks."*
+10. **T10 Modes of Entry** — list and describe all 6 modes; Maquiladora flagged.
+
+**Practice-only (L22 take-home — not teacher-flagged for exam, but useful essay practice):**
+
+11. **T14 Joint Ventures** — the GM+SAIC vs. Daimler-Chrysler pair.
+12. **T04 Tariffs** — a balanced paragraph drawing on Hill Ch. 7.
+
+Topics **T05 (Export Costing)** and **T06 (Export Plan 4Ps)** can be skimmed if time is tight — important but narrower in likely exam footprint (T05 is mostly calculations; T06 is a long essay with only one explicit flag). Revisit them once the items above are solid.
 
 ---
 
