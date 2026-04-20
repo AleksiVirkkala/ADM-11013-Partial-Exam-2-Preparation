@@ -1,0 +1,96 @@
+site_name: ADM-11013 Partial Exam 2 — Study Notes
+site_description: Study notes and exam prep for ADM-11013 Partial Exam 2
+site_url: https://aleksivirkkala.github.io/ADM-11013-Partial-Exam-2-Preparation/
+repo_url: https://github.com/AleksiVirkkala/ADM-11013-Partial-Exam-2-Preparation
+repo_name: ADM-11013-Partial-Exam-2-Preparation
+edit_uri: edit/main/docs/
+
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Home: index.md
+  - Exam Priority Index: Exam Priority Index.md
+  - Glossary: Glossary.md
+  - Topics:
+      - T01 — Economic Integration: topics/T01 - Economic Integration.md
+      - T02 — NAFTA and TMEC: topics/T02 - NAFTA and TMEC.md
+      - T03 — US Agricultural Subsidies: topics/T03 - US Agricultural Subsidies.md
+      - T04 — Tariffs Policy: topics/T04 - Tariffs Policy.md
+      - T05 — Export Costing: topics/T05 - Export Costing.md
+      - T06 — Export Plan (4Ps): topics/T06 - Export Plan 4Ps.md
+      - T07 — Export Documents and Flow: topics/T07 - Export Documents and Flow.md
+      - T08 — Incoterms: topics/T08 - Incoterms.md
+      - T09 — Trade Finance (LC and Factoring): topics/T09 - Trade Finance - LC and Factoring.md
+      - T10 — Modes of Entry: topics/T10 - Modes of Entry.md
+      - T11 — FDI vs Licensing: topics/T11 - FDI vs Licensing.md
+      - T12 — FDI Theories: topics/T12 - FDI Theories.md
+      - T13 — Benefits and Costs of FDI: topics/T13 - Benefits and Costs of FDI.md
+      - T14 — Joint Ventures: topics/T14 - Joint Ventures.md
+  - Lectures:
+      - Lecture 15: lectures/ADM-11013 Lecture 15.md
+      - Lecture 16: lectures/ADM-11013 Lecture 16.md
+      - Lecture 17: lectures/ADM-11013 Lecture 17.md
+      - Lecture 18: lectures/ADM-11013 Lecture 18.md
+      - Lecture 19: lectures/ADM-11013 Lecture 19.md
+      - Lecture 20: lectures/ADM-11013 Lecture 20.md
+      - Lecture 21: lectures/ADM-11013 Lecture 21.md
+      - Lecture 22: lectures/ADM-11013 Lecture 22.md
