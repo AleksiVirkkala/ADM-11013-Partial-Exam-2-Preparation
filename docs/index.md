@@ -21,7 +21,7 @@ Recommended reading order:
 2. **Read the [Exam Priority Index](Exam%20Priority%20Index.md)** — these are the questions the teacher is most likely to ask.
 3. **Work through topics in the order below** — the cluster order (A → B → C) is roughly the class chronology.
 4. **Use the [Glossary](Glossary.md)** as a quick reference while reading.
-5. **Dive into the [lecture archive](lectures/)** only when you need to verify a specific teacher phrasing or revisit the original transcript.
+5. **Dive into the [lecture archive](lectures/ADM-11013%20Lecture%2015.md)** only when you need to verify a specific teacher phrasing or revisit the original transcript.
 
 When short on time, prioritise topics marked **HIGH** or **VERY HIGH** in the table below.
 
